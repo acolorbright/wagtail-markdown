@@ -23,7 +23,7 @@ setup(
 
     install_requires=[
         'Markdown==2.6.2',
-        'bleach==1.4.2',
+        'bleach==1.5.0',
     ],
     license='zlib license',
 
