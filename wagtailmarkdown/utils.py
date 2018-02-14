@@ -40,7 +40,7 @@ def render(text):
         attributes = {
             '*': [ 'class', 'style', 'id', ],
             'a': [ 'href', 'target', 'rel', ],
-            'img': [ 'src', 'alt', ],
+            'img': [ 'src', 'alt', 'width', 'height', 'style', 'srcset', 'sizes', ],
             'tr': [ 'rowspan', 'colspan', ],
             'td': [ 'rowspan', 'colspan', 'align', ],
         },
