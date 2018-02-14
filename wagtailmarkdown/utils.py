@@ -50,5 +50,5 @@ def render(text):
                    'padding', 'padding-top', 'padding-bottom', 'padding-left', 'padding-right',
                    'margin', 'margin-top', 'margin-bottom', 'margin-left', 'margin-right',
                    ],
-        protocols = ['http', 'https', 'mailto', 'ftp', 'tel'],
+        protocols = ['http', 'https', 'mailto', 'ftp', 'tel', 'data'],
         ))
