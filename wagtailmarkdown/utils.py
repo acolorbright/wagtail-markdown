@@ -45,7 +45,7 @@ def render(text):
             'td': [ 'rowspan', 'colspan', 'align', ],
         },
         styles = [ 'color', 'background-color', 'font-family', 'font-weight', 'font-size',
-                   'width', 'height', 'text-align',
+                   'width', 'height', 'max-width', 'max-height', 'text-align',
                    'border', 'border-top', 'border-bottom', 'border-left', 'border-right',
                    'padding', 'padding-top', 'padding-bottom', 'padding-left', 'padding-right',
                    'margin', 'margin-top', 'margin-bottom', 'margin-left', 'margin-right',
